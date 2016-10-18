@@ -1,0 +1,4 @@
+2016-10-18 18:30:42.616222 SCNMaterialReflectivePropertyCrash[688:260028] [DYMTLInitPlatform] platform initialization successful
+2016-10-18 18:30:42.683727 SCNMaterialReflectivePropertyCrash[688:259966] Metal GPU Frame Capture Enabled
+2016-10-18 18:30:42.683926 SCNMaterialReflectivePropertyCrash[688:259966] Metal API Validation Enabled
+/BuildRoot/Library/Caches/com.apple.xbs/Sources/Metal/Metal-85.83/ToolsLayers/Debug/MTLDebugRenderCommandEncoder.mm:2682: failed assertion `incorrect type of texture (MTLTextureTypeCube) bound at texture binding at index 4 (expect MTLTextureType2D) for u_reflectiveTexture[0].'
